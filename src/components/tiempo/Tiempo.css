@@ -1,0 +1,33 @@
+.targeta{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family:  Arial;
+}
+.container-targeta{
+    width: 800px;
+    height: 250px;
+    background-color: rgb(121, 179, 240);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+.container-img{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container-img .imagen{
+    width: 100px;
+    height: 100px;
+}
+.container-text{
+    width: 50%;
+}

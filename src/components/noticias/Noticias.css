@@ -1,0 +1,20 @@
+.noticias{
+    width: 100%;
+    display: flex;
+}
+.listas{
+    width: 50%;
+}
+ul{
+    display: block;
+    border-top: 1px solid rgb(145, 141, 141);
+    padding-top: 10px;
+    cursor: pointer;
+}
+ul li{
+    list-style: none;
+}
+.mas-informacion{  
+    width: 50%;
+    text-align: center;
+}
